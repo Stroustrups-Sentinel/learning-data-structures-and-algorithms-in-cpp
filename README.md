@@ -8,7 +8,7 @@ std::cout << "hello world";
 
 ### Will be learning with content which includes these links
 
-- **Book link (amazon & pearson ):** [<https://www.amazon.com/Data-Structures-Algorithm-Analysis-C/dp/013284737X>] [<https://www.pearson.com/en-us/subject-catalog/p/data-structures-and-algorithm-analysis-in-c/P200000003459/9780133404180>]
+- **Main Book links:** [[**` Amazon `**](https://www.amazon.com/Data-Structures-Algorithm-Analysis-C/dp/013284737X)]  &nbsp; | &nbsp; [[**` Pearson `**](https://www.pearson.com/en-us/subject-catalog/p/data-structures-and-algorithm-analysis-in-c/P200000003459/9780133404180)]
 - **Book link (FREE)**: [<https://books.goalkicker.com/AlgorithmsBook/>]
 - **C++ reference book:** [<https://books.goalkicker.com/CPlusPlusBook/>]
 - **LearnXinYminutes:** [<https://learnxinyminutes.com/docs/c++/>]
@@ -17,7 +17,7 @@ std::cout << "hello world";
 
 - **🔥 BIG `O cheatsheet:** [<https://www.bigocheatsheet.com>]
 - **🔥 Data Structure Visualization:** [<https://www.cs.usfca.edu/~galles/visualization/Algorithms.html>]
-- **🔥 Mobile App** : [[`📱 Android`](https://play.google.com/store/apps/details?id=com.shway.datastructures "Hi there! I have been using this amazing app to sharpen my data structures & algorithms skills. I recommend you check it out")]
+- **📱 Mobile App** : [[**` Android `**](https://play.google.com/store/apps/details?id=com.shway.datastructures "Hi there! I have been using this amazing app to sharpen my data structures & algorithms skills. I recommend you check it out")]
 ---
 
 <br/>
