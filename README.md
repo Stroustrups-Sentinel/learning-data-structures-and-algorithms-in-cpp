@@ -25,29 +25,28 @@ std::cout << "hello world";
 ###### *The list of topics is based on my personal selection on what i want to learn/reinforce from the content.
 
 |Topic | Completed | Comment|
-|---|---|---|
-|Templates | | |
-|Structs | | |
-| | | |
-|List | | |
-|Stack | | |
-|Queue | | |
-|Tree | | |
-|Heap | | |
-|Graph | | |
-|Hash Table | | |
-|Greedy Algorithms  | | |
-|Divide & Conquer  | | |
-|Dynamic Programming  | | |
-|Randomized Algorithms  | | |
-|Backtracking Algorithms  | | |
-|Binomial Queues  | | |
-|Skew Heaps  | | |
-|Fibonacci Heaps  | | |
-|Splay Trees  | | |
-|Top-down Splay Trees  | | |
-|Red-BlackTrees  | | |
-|Treaps  | | |
-|Suffix Arrays & Suffix Trees  | | |
-|K-d Trees  | | |
-|Pairing Heaps  | | |
+|---|:---:|---|
+|Templates |⭕| |
+|Structs & Classes |✅| |
+|List |⭕ | |
+|Stack |⭕ | |
+|Queue |⭕ | |
+|Tree |⭕ | |
+|Heap |⭕ | |
+|Graph |⭕ | |
+|Hash Table |⭕ | |
+|Greedy Algorithms  |⭕ | |
+|Divide & Conquer  |⭕ | |
+|Dynamic Programming  |⭕ | |
+|Randomized Algorithms  |⭕ | |
+|Backtracking Algorithms  |⭕ | |
+|Binomial Queues  |⭕ | |
+|Skew Heaps  |⭕ | |
+|Fibonacci Heaps  |⭕ | |
+|Splay Trees  |⭕ | |
+|Top-down Splay Trees  |⭕ | |
+|Red-BlackTrees  |⭕ | |
+|Treaps  |⭕ | |
+|Suffix Arrays & Suffix Trees  |⭕ | |
+|K-d Trees  |⭕ | |
+|Pairing Heaps  |⭕ | |
