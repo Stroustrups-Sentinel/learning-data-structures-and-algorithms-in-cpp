@@ -8,7 +8,7 @@ std::cout << "hello world";
 
 ### Will be learning with content which includes these links
 
-- **Book link (amazon):** [<https://www.amazon.com/Data-Structures-Algorithm-Analysis-C/dp/013284737X>]
+- **Book link (amazon & pearson ):** [<https://www.amazon.com/Data-Structures-Algorithm-Analysis-C/dp/013284737X>] [<https://www.pearson.com/en-us/subject-catalog/p/data-structures-and-algorithm-analysis-in-c/P200000003459/9780133404180>]
 - **Book link (FREE)**: [<https://books.goalkicker.com/AlgorithmsBook/>]
 - **C++ reference book:** [<https://books.goalkicker.com/CPlusPlusBook/>]
 - **LearnXinYminutes:** [<https://learnxinyminutes.com/docs/c++/>]
